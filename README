@@ -1,3 +1,5 @@
+This is a unistroke gesture recognizer based on http://depts.washington.edu/aimgroup/proj/dollar/ by Jacob O. Wobbroke, Andrew D. Wilson and Yang Li.
+
 The same code is on the SqueakSource 3 at: http://ss3.gemstone.com/ss/Dollar1.html
 This is a git mirror of it.
 
