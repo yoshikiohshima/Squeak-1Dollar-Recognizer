@@ -1,0 +1,7 @@
+The same code is on the SqueakSource 3 at: http://ss3.gemstone.com/ss/Dollar1.html
+This is a git mirror of it.
+
+After loading, you can start the demo by evaluating:
+
+Dollar1Morph new openInWorld
+
