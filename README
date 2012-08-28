@@ -7,3 +7,4 @@ After loading, you can start the demo by evaluating:
 
 Dollar1Morph new openInWorld
 
+Similar to their demo in JavaScript, the Protractor algorithm is merged.  Also, a special case for "almost one-dimensional gestures" is implemented.
